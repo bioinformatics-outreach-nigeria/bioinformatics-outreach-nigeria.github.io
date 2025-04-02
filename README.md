@@ -18,7 +18,7 @@ Several template sections have been commented out, which can be used as needed.
 
 You can change or add new images in [images](./images) folder.
 
-You can edit css and othe files provided in [assets](./assets/) folder.
+You can edit css and other files provided in [assets](./assets/) folder.
 
 See the original Demo page of [Read Only by HTML5 UP](https://html5up.net/read-only) for inspiration.
 
