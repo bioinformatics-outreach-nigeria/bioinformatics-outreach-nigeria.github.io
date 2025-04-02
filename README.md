@@ -1,87 +1,58 @@
-# Bioinformatics Outreach Nigeria (BON)
+# Bioinformatics Outreach Nigeria
 
-**Bioinformatics Outreach Nigeria (BON)** is a community-driven initiative aimed at building a critical mass of bioinformaticians skilled in open science within Nigeria. BON provides mentorship, workshops, training programs, and collaborative projects to empower bioinformatics enthusiasts with the tools and knowledge to advance their careers and contribute to the global bioinformatics and life sciences community.
+This the main repository for the Bioinformatics Outreach Nigeria (BON) project.
 
-## Table of Contents
-- [About the Project](#about-the-project)
-- [Mission](#mission)
-- [Objectives](#objectives)
-- [Community Initiatives](#community-initiatives)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Community Partners](#community-partners)
-- [Contact](#contact)
+The `index.html` page is used for creating our website, which uses the "Read Only by HTML5 UP" template provided in the [GitHub Pages Starter Guide](https://iqss.github.io/github_pages_guide/template.html).
 
-## About the Project
+The "HTML5Up’s Read Only" template is shared under the html5up.net project by @ajlkn
+for free for personal and commercial use under the [CCA 3.0 license (html5up.net/license)](https://html5up.net/license).
 
-Bioinformatics Outreach Nigeria aims to:
-- Foster a community of bioinformatics enthusiasts and professionals dedicated to integrating open science practices.
-- Train and mentor bioinformatics beginners and professionals, helping them gain technical expertise and leadership skills.
-- Collaborate with global bioinformatics communities to enhance Nigeria's visibility in bioinformatics research.
+## Editing website content
 
-BON provides resources, peer support, and opportunities to work on bioinformatics projects, focusing on training, collaborative research, open science skills, and career growth in bioinformatics.
+You can edit different sections in index.html to update information.
+To add new section, follow the structure provided in the index page.
 
-## Mission
+You can also use [markdowntohtml](https://markdowntohtml.com/) to help you convert markdown to html.
+When copy pasting, adapt it to the original structure provided in the template.
+Several template sections have been commented out, which can be used as needed.
 
-Our mission is to build a thriving, collaborative bioinformatics community in Nigeria by leveraging open science principles, nurturing talent, and connecting Nigerian bioinformaticians to global networks.
+You can change or add new images in [images](./images) folder.
 
-## Objectives
+You can edit css and othe files provided in [assets](./assets/) folder.
 
-1. **Develop Bioinformatics Skills:** Equip participants with essential bioinformatics and computational biology skills through structured training programs.
-2. **Promote Open Science:** Encourage open science practices within the Nigerian bioinformatics community.
-3. **Facilitate Collaboration:** Connect Nigerian bioinformaticians with international collaborators to work on impactful projects.
-4. **Support Career Development:** Create pathways for Nigerian bioinformaticians to advance their careers in research, academia, and industry.
+See the original Demo page of [Read Only by HTML5 UP](https://html5up.net/read-only) for inspiration.
 
-## Community Initiatives
+## About the Read Only by HTML5 UP
 
-BON provides a range of initiatives and resources, including:
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-- **Workshops and Training Programs:** Hands-on training sessions on topics such as Open science for Bioinformaticians
-- **Open Science Advocacy:** Promoting transparency, reproducibility, and open data through workshops and collaborative projects.
-- **Mentorship Programs:** Connecting beginners with mentors for guidance and career support.
-- **Hackathons and Codeathons:** Opportunities to participate in projects that apply bioinformatics to solve real-world problems.
-- **Publications and Outreach:** Enabling members to publish research and share insights with the larger community.
+Credits:
 
-## Recent Highlights
+	Demo Images:
+		Unsplash (unsplash.com)
 
-- **Open Science for Bioinformaticians Workshop:** A two-day training session on open science practices in bioinformatics. [Materials available on Zenodo](https://zenodo.org/communities/bioinformatics-outreach-nigeria/records?q=&l=list&p=1&s=10&sort=newest).
-- **Serving as a Community Catalyst Project:** [Catalyst Project](https://catalystproject.cloud/community-partnership.html).
-- **Resident Fellowship with Open Life Science (OLS):** BON's team lead, Seun Olufemi, serves as a Resident Fellow at OLS to support open science mentorship. [Learn more](https://we-are-ols.org/posts/2024/07/24/welcoming-resident-fellow-seun-olufemi/).
+	Icons:
+		Font Awesome (fontawesome.io)
 
-## Getting Started
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
 
-To get involved with Bioinformatics Outreach Nigeria, we love to have interested people who are passionate about Open Science, Community building, and Bioinformatics and who has 
-- Basic knowledge of biology, genetics, and data science is beneficial.
-- Familiarity with programming languages like Python or R for bioinformatics analysis skills or interested in learning
+Just a super simple single-page responsive template built for personal sites and portfolios
+(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
+elements, and Sass sources.
 
-## Usage
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-BON resources can be used for:
+(* = Not included)
 
-- **Applying Open Sciences principles to bioinformatics** through tutorials and example projects.
-- **Participating in community events** such as workshops and codeathons.
-- **Engaging with the open-source community** through contributions and discussions.
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
-## License
+AJ
+aj@lkn.io | @ajlkn
 
-This project is licensed under the CC BY 4.0 License - see the [LICENSE](https://github.com/seunolufemi123/Bioinformatics-Outreach-Nigeria/blob/main/LICENSE.md) file for details.
-
-## Community Partners
-
-We are grateful to our community partners, including:
-
-- **Catalyst Project:** [Catalyst Project](https://catalystproject.cloud/community-partnership.html)
-- **Open Life Science (OLS):** [Open Life Science](https://we-are-ols.org/)
-- **Bioinformatics Hub of Kenya Initiative (BHKi):** [Bioinformatics Hub of Kenya Initiative](https://github.com/LandiMi2/BHKi-Training-Activities/blob/gh-pages/index.md)
-
-## Contact
-
-Connect with Bioinformatics Outreach Nigeria to stay updated:
-
-- **LinkedIn:** [Seun Olufemi](https://www.linkedin.com/in/seunolufemi)
-- **GitHub:** [Bioinformatics Outreach Nigeria Repository](https://github.com/seunolufemi123/Bioinformatics-Outreach-Nigeria)
-- **Email:** [Seun Olufemi](oluwaseunjr1@gmail.com), [Emmanuel Adamolekun](adamolekunoluwaseyi@gmail.com)
-
-Join us as we work together to make Nigeria, by extension Africa a leader in bioinformatics research and innovation!
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
