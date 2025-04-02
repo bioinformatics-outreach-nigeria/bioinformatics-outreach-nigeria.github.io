@@ -80,8 +80,8 @@ We are grateful to our community partners, including:
 
 Connect with Bioinformatics Outreach Nigeria to stay updated:
 
-- **LinkedIn:** [Seun Olufemi](https://www.linkedin.com/in/seunolufemi)
-- **GitHub:** [Bioinformatics Outreach Nigeria Repository](https://github.com/seunolufemi123/Bioinformatics-Outreach-Nigeria)
-- **Email:** [Seun Olufemi](oluwaseunjr1@gmail.com), [Emmanuel Adamolekun](adamolekunoluwaseyi@gmail.com)
+- **LinkedIn:** [Bioinformatics Outreach Nigeria](https://www.linkedin.com/company/bioinformatics-outreach-nigeria/))
+- **GitHub:** [Bioinformatics Outreach Nigeria](https://github.com/bioinformatics-outreach-nigeria)
+- **Email:** bioinformaticsoutreachnigeria@gmail.com
 
 Join us as we work together to make Nigeria, by extension Africa a leader in bioinformatics research and innovation!
